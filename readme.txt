@@ -1,3 +1,5 @@
+## Clojure has moved to: [https://github.com/clojure/clojure]
+
  *   Clojure
  *   Copyright (c) Rich Hickey. All rights reserved.
  *   The use and distribution terms for this software are covered by the
